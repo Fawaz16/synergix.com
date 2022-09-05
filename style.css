@@ -10,7 +10,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  
+  background-attachment: fixed;
     height: 70vh;
 }
 
@@ -44,6 +44,9 @@ color: rgb(255, 245, 235);
 .first ul li a{
     color: aliceblue;
     font-size: 19px;
+}
+nav{
+    background-attachment: fixed;
 }
 .first ul li a:hover{
 color: lightgray;
@@ -124,7 +127,12 @@ padding-top: 30px;
     object-fit: cover;
   }
   .second{
-   background-color: rgb(179, 167, 149);
+  background:url(images/21661315-0318-4f6c-b9f9-ecd1896996a7.jpg) ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* height: 720vh; */
+  background-attachment: fixed;
 }
 hr{
     height: 6px;
@@ -657,4 +665,5 @@ margin-right: 40px;
         margin-top: 10px;
 
     }
+    
 }
