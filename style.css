@@ -134,6 +134,14 @@ padding-top: 30px;
   /* height: 720vh; */
   background-attachment: fixed;
 }
+  .third{
+  background:url(images/21661315-0318-4f6c-b9f9-ecd1896996a7.jpg) ;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 hr{
     height: 6px;
     background-color: black;
